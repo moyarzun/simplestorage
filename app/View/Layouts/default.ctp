@@ -17,8 +17,10 @@
  */
 
 $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
+if(isset($javascript)) { echo $javascript->link('tiny_mce/tiny_mce.js');}
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<?php echo $this->Html->charset(); ?>
@@ -37,6 +39,16 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 	?>
 </head>
 <body>
+
+	<script type="text/javascript">
+	tinyMCE.init({
+	theme : "advanced",
+	mode : "textareas",
+	theme_advanced_toolbar_location : "top",
+	convert_urls : false
+	});
+	</script>
+
 	<div id="container">
 		<div id="header">
 			<h1><?php echo $this->Html->link($cakeDescription, 'http://cakephp.org'); ?></h1>

@@ -1,3 +1,13 @@
+<?php if(isset($javascript)) { echo $javascript->link('tiny_mce/tiny_mce.js'); } ?>
+<script type="text/javascript">
+tinyMCE.init({
+theme : "advanced",
+mode : "textareas",
+theme_advanced_toolbar_location : "top",
+convert_urls : false
+});
+</script> 
+
 <?php
 /**
  *
