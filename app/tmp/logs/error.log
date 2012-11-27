@@ -1,0 +1,224 @@
+2012-11-27 15:06:39 Error: [MissingControllerException] Controller class RController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:08:01 Error: [MissingControllerException] Controller class RController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:08:38 Error: [MissingControllerException] Controller class EbController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:08:39 Error: [MissingControllerException] Controller class ~aController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:08:39 Error: [MissingControllerException] Controller class RController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:08:39 Error: [MissingControllerException] Controller class ~aController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:08:58 Error: [MissingControllerException] Controller class RController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:09:22 Error: [MissingControllerException] Controller class RController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:09:38 Error: [MissingControllerException] Controller class RController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:09:38 Error: [MissingControllerException] Controller class ~aController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:09:38 Error: [MissingControllerException] Controller class ~aController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:10:17 Error: [MissingControllerException] Controller class RController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:19:48 Error: [MissingControllerException] Controller class PageadController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:20:36 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:20:37 Error: [MissingControllerException] Controller class PageadController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:21:58 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:22:08 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:22:23 Error: [MissingControllerException] Controller class SkinsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:22:27 Error: [MissingControllerException] Controller class SkinsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:23:02 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:23:19 Error: [MissingControllerException] Controller class ExtensionsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:23:19 Error: [MissingControllerException] Controller class ExtensionsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:23:20 Error: [MissingControllerException] Controller class AdvertisersController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:23:20 Error: [MissingControllerException] Controller class AdvertisersController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 15:23:22 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 16:15:40 Error: Fatal Error (4): syntax error, unexpected $end in [/home/meloku/Documentos/Git/simplestorage/app/View/Layouts/default.ctp, line 73]
+2012-11-27 16:15:40 Error: [FatalErrorException] syntax error, unexpected $end
+#0 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/meloku/Do...', 73)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/meloku/Do...', 73, Array)
+#2 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/meloku/Do...', 73, Array)
+#3 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-27 16:19:57 Error: Fatal Error (4): syntax error, unexpected $end in [/home/meloku/Documentos/Git/simplestorage/app/View/Layouts/default.ctp, line 74]
+2012-11-27 16:19:57 Error: [FatalErrorException] syntax error, unexpected $end
+#0 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/meloku/Do...', 74)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/meloku/Do...', 74, Array)
+#2 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/meloku/Do...', 74, Array)
+#3 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-27 16:20:00 Error: Fatal Error (4): syntax error, unexpected $end in [/home/meloku/Documentos/Git/simplestorage/app/View/Layouts/default.ctp, line 74]
+2012-11-27 16:20:00 Error: [FatalErrorException] syntax error, unexpected $end
+#0 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/meloku/Do...', 74)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/meloku/Do...', 74, Array)
+#2 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/meloku/Do...', 74, Array)
+#3 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-27 16:20:03 Error: Fatal Error (4): syntax error, unexpected $end in [/home/meloku/Documentos/Git/simplestorage/app/View/Layouts/default.ctp, line 74]
+2012-11-27 16:20:03 Error: [FatalErrorException] syntax error, unexpected $end
+#0 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/meloku/Do...', 74)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/meloku/Do...', 74, Array)
+#2 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/meloku/Do...', 74, Array)
+#3 /home/meloku/Documentos/Git/simplestorage/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-11-27 17:40:17 Error: [MissingControllerException] Controller class Ga.jsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 17:40:20 Error: [MissingControllerException] Controller class Ga.jsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 17:40:20 Error: [MissingControllerException] Controller class Beacon.jsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 19:03:08 Error: [MissingControllerException] Controller class AnyoptionController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 19:03:08 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 19:09:49 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 19:17:36 Error: [MissingControllerException] Controller class MediaController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 19:17:37 Error: [MissingControllerException] Controller class 100549149ns.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 19:26:58 Error: [MissingControllerException] Controller class MbController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 19:28:17 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:00:35 Error: [MissingControllerException] Controller class AdiController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:00:42 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:00:44 Error: [MissingControllerException] Controller class GampadController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:00:52 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:00:52 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:01:11 Error: [MissingControllerException] Controller class AdjController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:01:49 Error: [MissingControllerException] Controller class ActionController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:02:00 Error: [MissingControllerException] Controller class ActionController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:02:14 Error: [MissingControllerException] Controller class PixelController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:02:15 Error: [MissingControllerException] Controller class IdController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:02:15 Error: [MissingControllerException] Controller class OzController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:02:15 Error: [MissingControllerException] Controller class CmController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:02:15 Error: [MissingControllerException] Controller class AdServerController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:03:10 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:07:07 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:07:30 Error: [MissingControllerException] Controller class ExtensionsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:07:30 Error: [MissingControllerException] Controller class ExtensionsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:07:30 Error: [MissingControllerException] Controller class AdvertisersController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:07:30 Error: [MissingControllerException] Controller class AdvertisersController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:08:21 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:08:35 Error: [MissingControllerException] Controller class ExtensionsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:08:35 Error: [MissingControllerException] Controller class ExtensionsController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:08:36 Error: [MissingControllerException] Controller class AdvertisersController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:08:36 Error: [MissingControllerException] Controller class AdvertisersController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:08:36 Error: [MissingControllerException] Controller class AdvertisersController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:09:44 Error: [MissingControllerException] Controller class Utm.gifController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:32:57 Error: [MissingControllerException] Controller class Ads-ak-snc7Controller could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:32:57 Error: [MissingControllerException] Controller class Ads-ak-snc7Controller could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-11-27 20:32:57 Error: [MissingControllerException] Controller class Ads-ak-snc7Controller could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
