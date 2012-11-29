@@ -222,3 +222,6 @@
 2012-11-27 20:32:57 Error: [MissingControllerException] Controller class Ads-ak-snc7Controller could not be found.
 #0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-11-29 18:08:08 Error: [MissingControllerException] Controller class PageadController could not be found.
+#0 /home/meloku/Documentos/Git/simplestorage/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
