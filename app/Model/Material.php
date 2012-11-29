@@ -1,0 +1,2 @@
+class Material extends AppModel {
+}
