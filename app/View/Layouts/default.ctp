@@ -25,7 +25,7 @@ if(isset($javascript)) { echo $javascript->link('tiny_mce/tiny_mce.js');}
 <head>
 	<?php echo $this->Html->charset(); ?>
 	<title>
-		<?php echo $cakeDescription ?>:
+		<?php echo $cakeDescription ?>: 
 		<?php echo $title_for_layout; ?>
 	</title>
 	<?php
@@ -51,7 +51,7 @@ if(isset($javascript)) { echo $javascript->link('tiny_mce/tiny_mce.js');}
 
 	<div id="container">
 		<div id="header">
-			<h1><?php echo $this->Html->link($cakeDescription, 'http://cakephp.org'); ?></h1>
+			<!-- <h1><?php echo $this->Html->link($cakeDescription, 'http://cakephp.org'); ?></h1> -->
 		</div>
 		<div id="content">
 

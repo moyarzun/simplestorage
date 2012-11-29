@@ -60,12 +60,21 @@
 class DATABASE_CONFIG {
 
 	public $default = array(
+<<<<<<< HEAD
 		'datasource' => 'Database/Postgres',
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'pbd',
 		'password' => 'pbd',
 		'database' => 'asdasd',
+=======
+		'datasource' => 'Database/Mysql',
+		'persistent' => false,
+		'host' => 'localhost',
+		'login' => 'user',
+		'password' => 'password',
+		'database' => 'database_name',
+>>>>>>> c1415f0c365fdacfae3c3d0061bd3d555c3ae540
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
