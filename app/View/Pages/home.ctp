@@ -34,8 +34,8 @@ App::uses('Debugger', 'Utility');
 
 <div id="login" style="width: 300px"> 
 	<form action="">
-		Username: <input type="text" name="user"><br>
-		Password: <input type="password" name="password">
+		<div> <p style="float:left;">Username:</p> <input type="text" name="user" style="width:150px;"><br></div>
+		<div> <p style="float:left;">Password:</p> <input type="password" name="password" style="width:150px;"></div>
 		<input type="submit" value="Ingresar">
 	</form> 
 </div>
