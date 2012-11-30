@@ -32,5 +32,25 @@ App::uses('Controller', 'Controller');
  * @link http://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
 class AppController extends Controller {
-	public $helpers = array('Tinymce');
+	// Check if they are logged in
+	function authenticate()
+	{
+		// Check if the session variable User exists, redirect to loginform if not
+		if(!$this->Session->check('User'))
+		{
+			$this->redirect(array('controller' => 'users', 'action' => 'login'));
+			exit();
+		}
+	}
+
+	// Authenticate on every action, except the login form
+	function afterFilter()
+	{
+		if( $this->action != 'login' )
+		{
+			$this->authenticate();
+		}
+	}
 }
+
+

@@ -39,16 +39,6 @@ if(isset($javascript)) { echo $javascript->link('tiny_mce/tiny_mce.js');}
 	?>
 </head>
 <body>
-
-	<script type="text/javascript">
-	tinyMCE.init({
-	theme : "advanced",
-	mode : "textareas",
-	theme_advanced_toolbar_location : "top",
-	convert_urls : false
-	});
-	</script>
-
 	<div id="container">
 		<div id="header">
 			<!-- <h1><?php echo $this->Html->link($cakeDescription, 'http://cakephp.org'); ?></h1> -->
